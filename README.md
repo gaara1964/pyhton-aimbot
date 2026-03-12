@@ -23,7 +23,6 @@ This project includes:
 
 - `aimbot.py` - main app, UI, hotkeys, patch logic, and process attach loop.
 - `beyondmem.py` - low-level process memory read/write + AoB scanner.
-- `users.db` - present in repo, not used by `aimbot.py` right now.
 
 ## Requirements
 
